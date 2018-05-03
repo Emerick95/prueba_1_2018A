@@ -1,0 +1,2 @@
+Cadena normal: Programacion Avanzada
+Cadena invertida: ('d', 'a', 'z', 'n', 'a', 'v', 'A', ' ', 'n', 'o', 'i', 'c', 'a', 'm', 'a', 'r', 'g', 'o', 'r', 'P')
